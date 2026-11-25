@@ -1,70 +1,54 @@
-# Hi, I am Amrit Jaiswal
+<div align="center">
 
-I study Information Technology and Mathematical Innovation at Cluster Innovation Centre. I work on Python projects, applied machine learning, and web applications.
+# Hi, I'm Amrit Jaiswal 👋
 
-## Featured projects
+### Math. Models. Useful software.
 
-### MetalParts defect detection
+**B.Tech · Information Technology & Mathematical Innovation**
 
-A semester project comparing a convolutional autoencoder, DINOv2 memory, and PatchCore variants under real changes in inspection images. The repository includes the methodology, report, slides, result tables, and figures.
+Cluster Innovation Centre, University of Delhi
 
-**Python · PyTorch · Computer vision · Experimental analysis**
+[![Explore my projects](https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amritjais99?tab=repositories)
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-EE4C2C?style=flat-square)](#-project-showcase)
+[![Optimization](https://img.shields.io/badge/Optimization-009688?style=flat-square)](#-project-showcase)
+[![Web and Mobile](https://img.shields.io/badge/Web_%26_Mobile-3178C6?style=flat-square)](#-tech-stack)
 
-[Explore MetalParts](https://github.com/Amritjais99/metalparts-few-shot-anomaly-detection)
+</div>
 
-### OptiRoute
+---
 
-A React/Vite frontend and FastAPI backend for user-owned AI model routing.
+## 👨‍💻 About Me
 
-**Python · FastAPI · React · Vite**
+I enjoy turning mathematical ideas into software that people can explore and use. My projects range from detecting defects in industrial images and optimizing freight networks to building web applications and campus tools.
 
-[Explore OptiRoute](https://github.com/Amritjais99/OptiRoute)
+- 🧠 **Machine learning & computer vision:** model comparisons, image anomaly detection and predictive maintenance.
+- 📐 **Operations research:** linear programming, freight allocation and disruption scenarios.
+- 🛠️ **Application development:** Python APIs, interactive dashboards and React-based web and mobile apps.
 
-### OptiChain
+## 🚀 Project Showcase
 
-A Python and Streamlit project for multimodal freight allocation, capacity planning and disruption scenarios using FAF6 data.
+| Project | What it explores | Main technologies |
+| :--- | :--- | :--- |
+| **[🔍 MetalParts Defect Detection](https://github.com/Amritjais99/metalparts-few-shot-anomaly-detection)** | Comparing Conv AE, DINOv2 memory and PatchCore variants when lighting, position and backgrounds change. Includes reports, figures and results. | Python · PyTorch · Computer vision |
+| **[🚚 OptiChain](https://github.com/Amritjais99/OptiChain)** | Freight allocation, capacity planning and disruption scenarios using FAF6 data and mathematical optimization. | Python · SciPy · Streamlit · NetworkX |
+| **[✈️ AeroGuard IIoT](https://github.com/Amritjais99/AeroGuard-IIoT)** | Predicting turbofan remaining useful life using NASA C-MAPSS data, with an API and dashboard. | Python · scikit-learn · FastAPI · Docker |
+| **[🧭 OptiRoute](https://github.com/Amritjais99/OptiRoute)** | A web application for routing requests to user-owned AI models. | React · Vite · FastAPI · Firebase |
+| **[🎓 UniHub Campus Companion](https://github.com/Amritjais99/UniHub-Campus-Companion)** | Bringing attendance, academic resources and campus community features into a mobile application. | React Native · Expo · Firebase |
+| **[🔨 Online Auction System](https://github.com/Amritjais99/online-auction-system)** | A desktop auction prototype with admin and bidder screens, bid history and a simulated wallet. | Java · Swing · FlatLaf |
 
-[Explore OptiChain](https://github.com/Amritjais99/OptiChain)
+## 💻 Tech Stack
 
-### AeroGuard IIoT
-
-A turbofan predictive maintenance project using NASA C-MAPSS data, machine learning, a FastAPI service and a Streamlit dashboard.
-
-[Explore AeroGuard IIoT](https://github.com/Amritjais99/AeroGuard-IIoT)
-
-### UniHub Campus Companion
-
-A React Native and Expo application for campus attendance, academic resources and community features, using Firebase services.
-
-[Explore UniHub](https://github.com/Amritjais99/UniHub-Campus-Companion)
-
-### Online Auction System
-
-A Java Swing desktop prototype with bidder and admin interfaces, bid history and a simulated wallet.
-
-[Explore Online Auction System](https://github.com/Amritjais99/online-auction-system)
-
-## Interests
-
-- Computer vision and machine learning
-- Practical Python applications
-- Building clear experiments and useful software
-
-You can find my project code and write-ups in the repositories below.
-
-## Tech Stack
-
-Technologies used across my project repositories, including application libraries, data tools and development tooling.
+Technologies used across my repositories, from model experiments to application development.
 
 <!-- TECH-STACK:START -->
-### Languages
+#### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Applications and APIs
+#### Web, Mobile & APIs
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -72,13 +56,12 @@ Technologies used across my project repositories, including application librarie
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Data, Optimization and Machine Learning
+#### Machine Learning, Data & Optimization
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -91,11 +74,10 @@ Technologies used across my project repositories, including application librarie
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![SHAP](https://img.shields.io/badge/SHAP-008B8B?style=for-the-badge)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 
-### Storage, Tools and Testing
+#### Storage, Tools & Testing
 
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -105,3 +87,15 @@ Technologies used across my project repositories, including application librarie
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 <!-- TECH-STACK:END -->
+
+---
+
+<div align="center">
+
+**Interested in the details?**
+
+Explore the repositories for source code, project documentation and available experiment results.
+
+[Browse all repositories →](https://github.com/Amritjais99?tab=repositories)
+
+</div>
